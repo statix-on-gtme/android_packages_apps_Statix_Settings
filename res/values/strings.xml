@@ -10,6 +10,9 @@
     <string name="statix_version_default">Unknown</string>
     <string name="statix_uri" translatable="false">https://github.com/StatiXOS</string>
 
+    <!-- Build date -->
+    <string name="build_date">Build date</string>
+
     <!-- Adaptive charging -->
     <string name="adaptive_charging">Adaptive Charging</string>
     <string name="adaptive_charging_description">Extend battery lifespan by charging steadily during longer charging periods. Activated based on your usage cycle.</string>
